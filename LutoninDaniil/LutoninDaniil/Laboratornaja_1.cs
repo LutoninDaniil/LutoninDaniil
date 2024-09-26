@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 ﻿using System;
 
-=======
-using System;
->>>>>>> 041fbe123711029ee3bea90f09981c134503fb9c
 class Z1{
   static void Main() {
       int a,b;
@@ -12,12 +8,7 @@ class Z1{
     Console.WriteLine(a+b-a);Console.WriteLine(b+a-b);
   }
 }
-<<<<<<< HEAD
  /*
-=======
-
-using System;
->>>>>>> 041fbe123711029ee3bea90f09981c134503fb9c
 class Z2{
   static void Main() {
       int x,y;
@@ -27,10 +18,6 @@ class Z2{
   }
 }
 
-<<<<<<< HEAD
-=======
-using System;
->>>>>>> 041fbe123711029ee3bea90f09981c134503fb9c
 class Z3{
   static void Main() {
       int p,l,m,n;
@@ -41,7 +28,4 @@ class Z3{
     Console.WriteLine((2*n*p)+n*(2*l+2*m)+n*(l*n-l));
   }
 }
-<<<<<<< HEAD
 */
-=======
->>>>>>> 041fbe123711029ee3bea90f09981c134503fb9c
