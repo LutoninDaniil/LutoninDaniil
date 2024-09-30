@@ -1,15 +1,18 @@
-﻿using System;
+﻿/* using System;
 
-class Z1{
+class Z1_1{
   static void Main() {
       int a,b;
       a=Convert.ToInt32(Console.ReadLine());
       b=Convert.ToInt32(Console.ReadLine());
-    Console.WriteLine(a+b-a);Console.WriteLine(b+a-b);
+      a=a+b;
+      b=a-b;
+      a=a-b;
+    Console.WriteLine($"{a} {b}");
   }
 }
- /*
-class Z2{
+
+class Z1_2{
   static void Main() {
       int x,y;
       x=Convert.ToInt32(Console.ReadLine());
@@ -18,7 +21,7 @@ class Z2{
   }
 }
 
-class Z3{
+class Z1_3{
   static void Main() {
       int p,l,m,n;
       n=Convert.ToInt32(Console.ReadLine());
