@@ -1,7 +1,8 @@
+/*
 using System;
 using System.Diagnostics;
 using System.Globalization;
-/*
+
 class Z2_1{
   static void Main() {
       int c,a,b,z=0;
@@ -87,7 +88,7 @@ class Z2_3{
       Console.WriteLine($"Второй максимум: {max_2}");
     }
 }
-*/
+
 class Z2_4{
     static void Main(){
       int b=0,c=0;
@@ -115,3 +116,4 @@ class Z2_4{
       Console.WriteLine($"Ответ: {b}");
     }
 }
+*/

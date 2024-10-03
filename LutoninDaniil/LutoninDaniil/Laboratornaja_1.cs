@@ -1,4 +1,5 @@
-﻿/* using System;
+﻿/*
+using System;
 
 class Z1_1{
   static void Main() {
