@@ -1,0 +1,30 @@
+D:\Учёба\GitHub\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\LutoninDaniil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\GitHub\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\LutoninDaniil.AssemblyInfoInputs.cache
+D:\Учёба\GitHub\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\LutoninDaniil.AssemblyInfo.cs
+D:\Учёба\GitHub\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\LutoninDaniil.csproj.CoreCompileInputs.cache
+D:\Учёба\GitHub\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\LutoninDaniil.sourcelink.json
+D:\Учёба\GitHub\LutoninDaniil\LutoninDaniil\bin\Debug\net8.0\LutoninDaniil.exe
+D:\Учёба\GitHub\LutoninDaniil\LutoninDaniil\bin\Debug\net8.0\LutoninDaniil.deps.json
+D:\Учёба\GitHub\LutoninDaniil\LutoninDaniil\bin\Debug\net8.0\LutoninDaniil.runtimeconfig.json
+D:\Учёба\GitHub\LutoninDaniil\LutoninDaniil\bin\Debug\net8.0\LutoninDaniil.dll
+D:\Учёба\GitHub\LutoninDaniil\LutoninDaniil\bin\Debug\net8.0\LutoninDaniil.pdb
+D:\Учёба\GitHub\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\LutoninDaniil.dll
+D:\Учёба\GitHub\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\refint\LutoninDaniil.dll
+D:\Учёба\GitHub\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\LutoninDaniil.pdb
+D:\Учёба\GitHub\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\LutoninDaniil.genruntimeconfig.cache
+D:\Учёба\GitHub\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\ref\LutoninDaniil.dll
+D:\Учёба\GitHub\1 курс\1 семестр\LutoninDaniil\LutoninDaniil\bin\Debug\net8.0\LutoninDaniil.exe
+D:\Учёба\GitHub\1 курс\1 семестр\LutoninDaniil\LutoninDaniil\bin\Debug\net8.0\LutoninDaniil.deps.json
+D:\Учёба\GitHub\1 курс\1 семестр\LutoninDaniil\LutoninDaniil\bin\Debug\net8.0\LutoninDaniil.runtimeconfig.json
+D:\Учёба\GitHub\1 курс\1 семестр\LutoninDaniil\LutoninDaniil\bin\Debug\net8.0\LutoninDaniil.dll
+D:\Учёба\GitHub\1 курс\1 семестр\LutoninDaniil\LutoninDaniil\bin\Debug\net8.0\LutoninDaniil.pdb
+D:\Учёба\GitHub\1 курс\1 семестр\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\LutoninDaniil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\GitHub\1 курс\1 семестр\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\LutoninDaniil.AssemblyInfoInputs.cache
+D:\Учёба\GitHub\1 курс\1 семестр\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\LutoninDaniil.AssemblyInfo.cs
+D:\Учёба\GitHub\1 курс\1 семестр\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\LutoninDaniil.csproj.CoreCompileInputs.cache
+D:\Учёба\GitHub\1 курс\1 семестр\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\LutoninDaniil.sourcelink.json
+D:\Учёба\GitHub\1 курс\1 семестр\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\LutoninDaniil.dll
+D:\Учёба\GitHub\1 курс\1 семестр\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\refint\LutoninDaniil.dll
+D:\Учёба\GitHub\1 курс\1 семестр\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\LutoninDaniil.pdb
+D:\Учёба\GitHub\1 курс\1 семестр\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\LutoninDaniil.genruntimeconfig.cache
+D:\Учёба\GitHub\1 курс\1 семестр\LutoninDaniil\LutoninDaniil\obj\Debug\net8.0\ref\LutoninDaniil.dll
