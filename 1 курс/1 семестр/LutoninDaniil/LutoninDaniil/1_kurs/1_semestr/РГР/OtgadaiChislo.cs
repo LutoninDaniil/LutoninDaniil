@@ -7,7 +7,7 @@ class Otgadai_Chislo
         string[] krut = [];
         try
         {
-            StreamReader rom = new("vvod\\input_s1_01.txt");//мой единственный(второй) коментарий(абсолютно такой же, какой и первый): берёте свой файл с входными данными:)
+            StreamReader rom = new("vvod\\input_s1_01.txt");//мой единственный(второй) коментарий(абсолютно не такой же, какой и первый): берёте свой файл с входными данными:)
             string reka = "";
             string ferma = "" + rom.ReadLine();
             while(!ferma.Equals(""))
