@@ -1,9 +1,8 @@
 /*13.02.2025*/
-
+/*
 using System;
 using System.Collections.Generic;
 using System.Linq;
-/*
 // Алгоритм Прима
 public class Tochka
 {
